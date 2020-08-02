@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # author: Jay time:2020/8/2
 '''
-制作一个汉字转换拼音的窗体
+制作一个汉字转换拼音的窗体。
 '''
 
 from tkinter import Tk,Entry,Button
