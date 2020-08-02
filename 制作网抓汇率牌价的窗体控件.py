@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # author: Jay time:2020/8/2
 '''
-制作一个窗体控件，能显示从网站抓取的汇率信息，同时还能够保存文件到指定目录
+制作一个窗体控件，能显示从网站抓取的汇率信息，同时还能够保存文件到指定目录。
 '''
 
 from tkinter import Tk,Entry,Button,Text
